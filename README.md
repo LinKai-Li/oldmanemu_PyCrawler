@@ -3,9 +3,6 @@
  ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
  ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
  ![Nintendo 3DS](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
- [![PyPi Version](https://img.shields.io/pypi/v/mmdnn.svq)](https://pypi.org/project/mmdnn/)
- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
- [![Linux](https://travis-ci.org/Microsoft/MMdnn.svg?branch=master)](https://travis-ci.org/Microsoft/MMdnn)
 
 
 
