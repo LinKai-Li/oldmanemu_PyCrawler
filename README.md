@@ -1,5 +1,4 @@
 # oldmanemu_PyCrawler🤖
- ![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
  ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
