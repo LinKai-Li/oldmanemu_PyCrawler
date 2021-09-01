@@ -3,8 +3,8 @@
  ![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
  ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
  ![Nintendo 3DS](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
- ![downloads](https://img.shields.io/github/downloads/{LinKai-Li}/{oldmanemu_PyCrawler}/total.svg)
- ![badge1](https://img.shields.io/github/release/babel/babel)
+ ![downloads](https://img.shields.io/github/downloads/LinKai-Li/oldmanemu_PyCrawler/total.svg)
+ ![badge1](https://img.shields.io/github/release/Linkai-Li/oldmanemu_PyCrawler)
 
 
 ## 👨‍💻为什么要做这个项目
