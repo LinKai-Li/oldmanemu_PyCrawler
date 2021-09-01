@@ -2,6 +2,7 @@
  [![PyPi Version](https://img.shields.io/pypi/v/mmdnn.svq)](https://pypi.org/project/mmdnn/)
  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
  [![Linux](https://travis-ci.org/Microsoft/MMdnn.svg?branch=master)](https://travis-ci.org/Microsoft/MMdnn)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 
 
