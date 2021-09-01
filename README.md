@@ -9,7 +9,7 @@
  ![issues](https://img.shields.io/github/issues/Linkai-Li/oldmanemu_PyCrawler)
  ![forks](https://img.shields.io/github/forks/Linkai-Li/oldmanemu_PyCrawler)
  ![license](https://img.shields.io/github/license/Linkai-Li/oldmanemu_PyCrawler)
- ![python](https://img.shields.io/pypi/python/black)
+ ![python](https://badgen.net/pypi/python/black)
  
 ## 👨‍💻为什么要做这个项目
 
