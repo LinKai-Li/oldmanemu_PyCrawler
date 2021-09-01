@@ -6,9 +6,11 @@
  ![downloads](https://img.shields.io/github/downloads/LinKai-Li/oldmanemu_PyCrawler/total.svg)
  ![release](https://img.shields.io/github/release/Linkai-Li/oldmanemu_PyCrawler)
  ![stars](https://img.shields.io/github/stars/Linkai-Li/oldmanemu_PyCrawler)
-
-
-
+ ![issues](https://img.shields.io/github/issues/Linkai-Li/oldmanemu_PyCrawler)
+ ![forks](https://img.shields.io/github/forks/Linkai-Li/oldmanemu_PyCrawler)
+ ![license](https://img.shields.io/github/license/Linkai-Li/oldmanemu_PyCrawler)
+ ![python](https://img.shields.io/pypi/python/black)
+ 
 ## 👨‍💻为什么要做这个项目
 
 #### 1.我从oldmanemu上下载了游戏之后，有时需要查询游戏编号，进入网站查询较为繁琐
