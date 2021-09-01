@@ -4,10 +4,12 @@
  [![Linux](https://travis-ci.org/Microsoft/MMdnn.svg?branch=master)](https://travis-ci.org/Microsoft/MMdnn)
 
 
+
 ## 👨🏻‍💻为什么要做这个项目
 
 #### 1.我从oldmanemu上下载了游戏之后，有时需要查询游戏编号，进入网站查询较为繁琐
 #### 2.有些资源不需要注册就能下载，我希望能直接从本地文件取出下载链接
+
 
 ## 😋主要功能
 
